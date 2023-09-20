@@ -26,7 +26,7 @@
 - ⚡ Fun fact **Reading, Coding, Traveling**
 
 
-### 🎧 Now Playing
+### 🎧 Now Playing on Spotify
 
 [<p align="center"> <img src="https://spotify-readme-stat.vercel.app/api/run-spotify-status.py" alt="Playing Now" width="600" /></p>](https://open.spotify.com/user/samu9wingsif5o21e1i7vosyv)
 
