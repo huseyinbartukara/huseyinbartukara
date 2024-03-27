@@ -1,9 +1,9 @@
 <h1 align="center">
-  <a href="https://github.com/Adem68">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=0194DD&size=36&center=true&multiline=true&width=700&height=100&lines=Hi%20%F0%9F%91%8B,+I%27m+Bartu;iOS+Developer+(23y)+from+Izmir">
+  <a href="https://github.com/huseyinbartukara">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=0194DD&size=36&center=true&multiline=true&width=700&height=100&lines=Hi%20%F0%9F%91%8B,+I%27m+Bartu;React+Developer+(23y)+from+Denizli">
   </a>
 </h1>
-<h3 align="center">  Junior iOS Developer | Self Learner</h3>
+<h3 align="center">  Junior React Developer | Self Learner</h3>
 
 ### 🛠 My Skills
 
@@ -18,9 +18,9 @@
 <a href="" target="blank"><img align="center" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="Sqlite" height="40" width="40" /></a>
 
 
-- 🔭 I’m currently working on Swift
-- 🌱 I’m currently learning Swift UI Framework
-- 🤔 I’m looking for help with Swift's Issues
+- 🔭 I’m currently working on React
+- 🌱 I’m currently learning Tailwind 
+- 🤔 I’m looking for help with React and React Native Issues
 - 💬 Ask me about Anything
 - 📫 How to reach me: **huseyinbartukara@gmail.com**
 - ⚡ Fun fact **Reading, Coding, Traveling**
